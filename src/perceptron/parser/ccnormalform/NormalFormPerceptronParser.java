@@ -3,8 +3,6 @@ package perceptron.parser.ccnormalform;
 import java.util.ArrayList;
 import java.util.HashMap;
 
-import ccgparser.util.OfficialCandCFeature;
-
 import perceptron.core.representations.parsing.FeatureTree;
 import perceptron.core.representations.parsing.FeatureTreeBackPointer;
 import perceptron.parser.PerceptronParser;

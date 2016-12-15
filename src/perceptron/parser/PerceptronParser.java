@@ -22,8 +22,6 @@ import java.util.HashMap;
 import java.util.HashSet;
 import java.util.Scanner;
 
-import ccgparser.util.OfficialCandCFeature;
-
 import perceptron.core.representations.parsing.FeatureTree;
 import perceptron.core.representations.parsing.FeatureTreeBackPointer;
 import perceptron.core.representations.parsing.PackedFeatureForest;
